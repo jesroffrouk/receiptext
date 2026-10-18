@@ -1,0 +1,7 @@
+[project]
+name = "2026-10-18-receiptext"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.15"
+dependencies = []
